@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>Accelerometer</key>
+	<string>Accelerometer</string>
+	<key>Applications</key>
+	<string>Applications</string>
+	<key>Apps</key>
+	<string>Apps</string>
+	<key>Contact</key>
+	<string>Contact</string>
+	<key>Default</key>
+	<string>Default</string>
+	<key>Developed by Packetfahrer © 2015</key>
+	<string>Developed by Packetfahrer © 2015</string>
+	<key>Sensitivity</key>
+	<string>Sensitivity</string>
+	<key>Sensitivity Accelerometer</key>
+	<string>Sensitivity Accelerometer</string>
+	<key>Settings Accelerometer</key>
+	<string>Settings Accelerometer</string>
+	<key>System Applications</key>
+	<string>System Applications</string>
+	<key>Update Interval Accelerometer</key>
+	<string>Update Interval Accelerometer</string>
+	<key>User Applications</key>
+	<string>User Applications</string>
+</dict>
+</plist>

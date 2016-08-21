@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Auto-Lock Delay overwrite the Preferences. You can disable this. You should set the dim delay Time smaller.</key>
+	<string>Auto-Lock Delay overwrite the Preferences. You can disable this. You should set the dim delay Time smaller.</string>
+	<key>Little Explanation</key>
+	<string>Little Explanation</string>
+	<key>No UNdim for LS Notifications, will disable the UNdim for all Notifications (except Timer) </key>
+	<string>No UNdim for LS Notifications, will disable the UNdim for all Notifications (except Timer) </string>
+	<key>Sensitivity Accelerometer</key>
+	<string>You can now set your own sensitivity to the accelerometer. This seems to be necessary for some devices. Default is 0.05!</string>
+	<key>The Ls Notification display Time is the Time before the Screen will be dim when a Notification will appear. Default is 15s.</key>
+	<string>The Ls Notification display Time is the Time before the Screen will be dim when a Notification will appear. Default is 15s.</string>
+	<key>The Settings when not connected to Ac, have the same effect.</key>
+	<string>The Settings when not connected to Ac, have the same effect.</string>
+	<key>The dim delay Lock-Screen Time is the Time before the Screen will be dim on Lock-Screen. Default is 8s.</key>
+	<string>The dim delay Lock-Screen Time is the Time before the Screen will be dim on Lock-Screen. Default is 8s.</string>
+	<key>The dim delay Time is the Time before the Screen will be dim. Default is 45s. </key>
+	<string>The dim delay Time is the Time before the Screen will be dim. Default is 45s. </string>
+	<key>Update Interval Accelerometer</key>
+	<string>You can now set your own Update Interval. (smaller more updates in the minute.) Default is 0.5!</string>
+	<key>With Disable Dim on AC you can disable dim on Ac. If only Disable Dim on Ac is enabled, the Screen will Lock, instead dim.</key>
+	<string>With Disable Dim on AC you can disable dim on Ac. If only Disable Dim on Ac is enabled, the Screen will Lock, instead dim.</string>
+	<key>With Disable LS Dim on Ac, your Screen can be UNdim (Power or Home Button) and will not be dim again(if connected to Ac).</key>
+	<string>With Disable LS Dim on Ac, your Screen can be UNdim (Power or Home Button) and will not be dim again(if connected to Ac).</string>
+	<key>You can disable Auto-Lock and dim for incomming Call´s</key>
+	<string>You can disable Auto-Lock and dim for incomming Call´s</string>
+	<key>You can disable Auto-Lock and dim for some Apps!</key>
+	<string>You can disable Auto-Lock and dim for some Apps!</string>
+	<key>dim to Black Screen, let you dim the Sreen without any Backlight! (Device is not Locked!)</key>
+	<string>dim to Black Screen, let you dim the Sreen without any Backlight! (Device is not Locked!)</string>
+	<key>dim with Face down </key>
+	<string>dim with Face down , dim the Screen if the Device is down side with the Screen.</string>
+	<key>unDim after FD</key>
+	<string>unDim after Face down , unDim the Screen after Face Down (for Locked State) Attention: This could decrease the battery power.</string>
+	<key>with Accelerator</key>
+	<string>with the Accelerometer you can now UNdim your Screen.</string>
+</dict>
+</plist>

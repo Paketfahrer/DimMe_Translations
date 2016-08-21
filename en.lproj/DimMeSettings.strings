@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accelerometer</key>
+	<string>Accelerometer</string>
+	<key>Applications</key>
+	<string>Applications</string>
+	<key>Apps</key>
+	<string>Apps</string>
+	<key>Auto-Lock Delay</key>
+	<string>Auto-Lock Delay</string>
+	<key>Contact</key>
+	<string>Contact</string>
+	<key>Default</key>
+	<string>Default</string>
+	<key>Developed by Packetfahrer © 2015</key>
+	<string>Developed by Packetfahrer © 2015</string>
+	<key>Disable Auto-Lock</key>
+	<string>Disable Auto-Lock</string>
+	<key>Disable LS dim</key>
+	<string>Disable LS dim</string>
+	<key>Disable LS dim on Ac</key>
+	<string>Disable LS dim on Ac</string>
+	<key>Disable Lock a. dim for Incoming Calls</key>
+	<string>Disable Lock a. dim for Incoming Calls</string>
+	<key>Disable Lock and dim for Apps</key>
+	<string>Disable Lock and dim for Apps</string>
+	<key>Disable UNdim when AC changed</key>
+	<string>Disable UNdim when AC changed</string>
+	<key>Disable dim on Ac</key>
+	<string>Disable dim on Ac</string>
+	<key>Disabled for all Apps</key>
+	<string>Disabled for all Apps</string>
+	<key>Enabled</key>
+	<string>Enabled</string>
+	<key>Find me on Twitter</key>
+	<string>Find me on Twitter</string>
+	<key>LS Not. display Time</key>
+	<string>LS Not. display Time</string>
+	<key>Little Explanation</key>
+	<string>Little Explanation</string>
+	<key>Lock instead dim</key>
+	<string>Lock instead dim</string>
+	<key>LockScreen Notifications</key>
+	<string>LockScreen Notifications</string>
+	<key>Never</key>
+	<string>Never</string>
+	<key>No UNdim for LS Notif.</key>
+	<string>No UNdim for LS Notif.</string>
+	<key>Send me an Mail</key>
+	<string>Mail</string>
+	<key>Sensitivity</key>
+	<string>Sensitivity</string>
+	<key>Sensitivity Accelerometer</key>
+	<string>Sensitivity Accelerometer</string>
+	<key>Settings Accelerometer</key>
+	<string>Settings Accelerometer</string>
+	<key>Settings Lock-Screen</key>
+	<string>Settings Lock-Screen</string>
+	<key>Settings dim Delay</key>
+	<string>Settings dim Delay</string>
+	<key>Settings when connected to AC</key>
+	<string>Settings when connected to AC</string>
+	<key>Settings when not connected to Ac</key>
+	<string>Settings when not connected to Ac</string>
+	<key>System Applications</key>
+	<string>System Applications</string>
+	<key>This will reduce your Battery Life and only take effect, if dim to Black Screen enabled!</key>
+	<string>This will reduce your Battery Life and only take effect, if dim to Black Screen enabled!</string>
+	<key>Touch to UnDim</key>
+	<string>Touch to UnDim</string>
+	<key>Update Interval Accelerometer</key>
+	<string>Update Interval Accelerometer</string>
+	<key>User Applications</key>
+	<string>User Applications</string>
+	<key>dim Delay Lock-Screen</key>
+	<string>dim Delay Lock-Screen</string>
+	<key>dim Delay Time</key>
+	<string>dim Delay Time</string>
+	<key>dim to Black Screen</key>
+	<string>dim to Black Screen</string>
+	<key>dim with Face down</key>
+	<string>dim with Face down</string>
+	<key>except for</key>
+	<string>except for</string>
+</dict>
+</plist>
